@@ -1,6 +1,5 @@
-# Luakkk
+# Hello everyone!!!My name is Smanova Alua)
 
-Hi there 👋
 
 - 🔭 I’m currently working on Idk
 - 🌱 I’m currently learning programming
